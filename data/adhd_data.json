@@ -1,0 +1,211 @@
+{
+  "title": "ADHD Self-Screening Questionnaire",
+  "description": "This is not a diagnosis. It only indicates possible ADHD tendencies.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How often do you have trouble focusing on tasks or activities?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How often do you make careless mistakes in work or studies?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How often do you struggle to complete tasks once started?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How often do you avoid tasks that require long mental effort?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How often do you lose things (keys, phone, etc.)?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How often are you easily distracted by external stimuli?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How often do you forget daily activities (appointments, tasks)?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How often do you fidget or feel restless?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How often do you feel unable to sit still for long periods?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How often do you talk excessively in conversations?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "How often do you interrupt others while they are speaking?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How often do you act without thinking about consequences?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "How often do you find it difficult to wait your turn?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "How often do you start multiple tasks but fail to finish them?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How often do you feel mentally restless?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "How often do you have difficulty organizing tasks?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "How often do you forget instructions even after hearing them?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How often do you feel overwhelmed by simple tasks?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How often do you procrastinate important work?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How often do you feel your attention drifts during conversations?",
+      "options": [
+        {"text": "Never", "score": 0},
+        {"text": "Rarely", "score": 1},
+        {"text": "Often", "score": 2},
+        {"text": "Very often", "score": 3}
+      ]
+    }
+  ],
+  "scoring": {
+    "low": {"min": 0, "max": 20, "result": "Low likelihood of ADHD"},
+    "moderate": {"min": 21, "max": 40, "result": "Moderate likelihood of ADHD"},
+    "high": {"min": 41, "max": 60, "result": "High likelihood of ADHD"}
+  }
+}
