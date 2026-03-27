@@ -8,7 +8,7 @@
     A clean, accessible, and interactive web application designed to help users assess potential ADHD symptoms through a structured questionnaire.
     <br />
     <br />
-    <a href="#live-demo-">View Demo</a>
+    <a href="https://rupamzz.github.io/ADHD_finder">View Demo</a>
     ·
     <a href="https://github.com/rupamzz/adhd_finder/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
