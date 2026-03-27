@@ -32,11 +32,11 @@
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here! Upload them to your repo and link them below)*
+
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x350/F8FAFC/4F46E5?text=Home+Screen+Screenshot" alt="Home Screen Screenshot" width="48%">
-  <img src="https://via.placeholder.com/600x350/F8FAFC/4F46E5?text=Assessment+Screen+Screenshot" alt="Assessment Screenshot" width="48%">
+  <img src="https://github.com/rupamzz/ADHD_finder/blob/main/Screenshot/Screenshot%202026-03-27%20111245.png?raw=true" alt="Home Screen Screenshot" width="48%">
+  <img src="https://github.com/rupamzz/ADHD_finder/blob/main/Screenshot/Screenshot%202026-03-27%20111307.png?raw=true" alt="Assessment Screenshot" width="48%">
 </div>
 
 ---
